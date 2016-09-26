@@ -1,3 +1,3 @@
 # NotDoodleJump
 
-![Alt text](http://imgur.com/AiGVmtK.png)
+<img src="http://imgur.com/AiGVmtK.png" width="48">
